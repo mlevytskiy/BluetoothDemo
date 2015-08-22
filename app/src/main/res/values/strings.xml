@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BluetoothDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetooth_off">Bluetooth is Off</string>
+    <string name="bluetooth_on">Bluetooth is On</string>
+    <string name="enable">Enable</string>
+    <string name="disable">Disable</string>
+    <string name="view_paired">Paired Devices</string>
+    <string name="scan_devices">Scan Devices</string>
+    <string name="stop_scan">Scan Devices</string>
+    <string name="list_paired_devices">Paired Devices</string>
+    <string name="list_devices">List of Devices</string>
+    <string name="pair">Pair</string>
+
+    <string name="no_paired_devices_found">No Paired Devices Found</string>
+    <string name="cancel">Cancel</string>
+    <string name="scanning">Scanning...</string>
+    <string name="pairing">Pairing...</string>
+    <string name="paired">Paired</string>
+    <string name="unpaired">Unpaired</string>
+    <string name="bluetooth_is_on">Bluetooth is On</string>
+    <string name="bluetooth_is_off">Bluetooth is Off</string>
+    <string name="bluetooth_is_unsupported">Bluetooth is unsupported by this device</string>
+    <string name="found_device">"Found device "</string>
+    <string name="unpair">Unpair</string>
+</resources>
